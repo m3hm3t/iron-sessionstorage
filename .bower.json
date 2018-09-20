@@ -1,0 +1,26 @@
+{
+  "name": "iron-sessionstorage",
+  "description": "Access to sessionStorage",
+  "main": "iron-sessionstorage.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
+    "paper-checkbox": "PolymerElements/paper-checkbox#^1.4.2"
+  },
+  "homepage": "https://github.com/frenchynz/iron-sessionstorage",
+  "version": "1.0.1",
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.1",
+    "commit": "1e928c76aa203d5eed1a1e2f6663d169b56c1b12"
+  },
+  "_source": "https://github.com/frenchynz/iron-sessionstorage.git",
+  "_target": "^1.0.1",
+  "_originalSource": "frenchynz/iron-sessionstorage"
+}
